@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "frosty:blocks/dry_ice",
+    "up": "frosty:blocks/dry_ice",
+    "north": "frosty:blocks/dry_ice",
+    "east": "frosty:blocks/dry_ice",
+    "south": "frosty:blocks/dry_ice",
+    "west": "frosty:blocks/dry_ice",
+    "particle": "frosty:blocks/dry_ice"
+  }
+}

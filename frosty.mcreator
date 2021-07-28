@@ -1,0 +1,64 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "DryIce",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dry_ice"
+    },
+    {
+      "name": "Snow",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow"
+    },
+    {
+      "name": "Icelands",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icelands"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.frosty.dry_ice": "Dry Ice",
+      "item.frosty.snow": "Snow",
+      "biome.frosty.icelands": "Icelands"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "frosty",
+    "modName": "Frosty",
+    "version": "1.0.0",
+    "author": "wespa, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.frosty",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
